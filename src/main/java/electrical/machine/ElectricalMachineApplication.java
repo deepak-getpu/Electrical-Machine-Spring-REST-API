@@ -1,0 +1,15 @@
+package electrical.machine;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ElectricalMachineApplication {
+
+
+	public static void main(String[] args) {
+		
+		SpringApplication.run(ElectricalMachineApplication.class, args);
+	}
+
+}
